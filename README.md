@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+![Texto Alternativo](imgs/Hello.gif)
 <!--
 **PhillipPaivaBrito/PhillipPaivaBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
