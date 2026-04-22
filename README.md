@@ -3,6 +3,7 @@
 <img src="imgs/Hello.gif" width="500">
 
 <prev>
+
 ~>> whoami | figlet  
   
  ____  _     _ _ _ _  
@@ -11,7 +12,7 @@
 |  __/| | | | | | | | |_) |  
 |_|   |_| |_|_|_|_|_| .__/  
                     |_|  
-
+  
 </prev>
 
 <div align="center">
